@@ -1,2 +1,3 @@
 # my-project1
-first project
+Hello World! 
+I'm learning GitHub guide.
